@@ -1,0 +1,2 @@
+# BelajarLua
+basic
